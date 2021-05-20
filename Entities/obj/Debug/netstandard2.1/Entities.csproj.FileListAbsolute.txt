@@ -1,0 +1,4 @@
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache

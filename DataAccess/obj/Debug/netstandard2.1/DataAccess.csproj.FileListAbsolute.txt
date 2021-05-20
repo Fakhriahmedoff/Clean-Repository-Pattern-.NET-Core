@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Users\ACER\source\repos\NorthwindLevelTwo\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb

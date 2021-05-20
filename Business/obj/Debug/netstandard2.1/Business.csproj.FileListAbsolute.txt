@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\ACER\source\repos\NorthwindLevelTwo\Business\obj\Debug\netstandard2.1\Business.pdb
